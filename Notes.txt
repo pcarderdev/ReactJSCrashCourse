@@ -1,0 +1,20 @@
+React is a library for building user interfaces
+
+Runs on client as a SPA (Single Page App)
+MERN - Mongo, Express, React, Node
+
+JSX - Dynamic HTML
+
+Virtual DOM - updates part of the page that need to be updated without needing to reload interfaces
+
+Data is immutable
+
+Components: Functions vs Classes
+Components 
+    - render/return JSX (JS Syntax Extension) 
+    - also take in 'props'
+Components can have 'state' which is an object that determines how a component renders and behaves
+    - App or global state refers to state that is available to the entire UI
+    - Redux??   
+
+New component - rafce
