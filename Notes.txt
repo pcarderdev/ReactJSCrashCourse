@@ -18,3 +18,5 @@ Components can have 'state' which is an object that determines how a component r
     - Redux??   
 
 New component - rafce
+
+""State gets passed down, actions get passed up""
